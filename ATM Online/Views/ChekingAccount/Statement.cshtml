@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ATM_Online.Models.Transaction>
+
+@{
+    ViewBag.Title = "Statement";
+}
+
+<h2>Statement</h2>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            Transaction Impact
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model.Where(c => c.CheckingAccountId == ViewBag.CheckingAccountId))
+{
+    <tr>
+        <td>
+            @{
+                if (item.Amount < -500 || item.Amount>500)
+                {
+                    <b>Medium</b>
+                }
+                else if (item.Amount < -5000 || item.Amount > 5000)
+                {
+                    <b>High</b>
+                }
+                else
+                {
+                    <b>Low</b>
+                }
+            }
+        </td>
+        <td>
+       @{
+           if (item.Amount<0)
+           {
+               <b>-</b>
+           }
+       }
+           @Html.DisplayFor(modelItem =>item.Amount).ToString() 
+        </td>
+    </tr>
+}
+
+</table>
+

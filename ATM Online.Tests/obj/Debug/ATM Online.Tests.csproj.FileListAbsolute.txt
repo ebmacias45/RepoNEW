@@ -1,0 +1,94 @@
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ApplicationInsights.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\csc.exe
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\csc.exe.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\csc.rsp
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\csi.exe
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\csi.exe.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\csi.rsp
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.AppContext.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Console.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\vbc.exe.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\vbc.rsp
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ATM Online.Tests.dll.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ATM Online.Tests.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ATM Online.Tests.pdb
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ATM Online.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Owin.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\EntityFramework.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ATM Online.pdb
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\ATM Online.dll.config
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\EntityFramework.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\obj\Debug\ATM Online.Tests.csprojResolveAssemblyReference.cache
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\obj\Debug\ATM Online.Tests.dll
+c:\users\ernesto\documents\visual studio 2017\Projects\ATM Online\ATM Online.Tests\obj\Debug\ATM Online.Tests.pdb
